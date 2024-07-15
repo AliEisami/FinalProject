@@ -1,0 +1,13 @@
+{
+  "browser" : "Chrome",
+  "url" : "https://trello.com/",
+  "email" : "qautomation5tech@gmail.com",
+  "password" : "@QAutomation5",
+  "wrong_password" : "Wrong@password",
+  "username" : "qautomation5tech",
+  "board_title" : "test1",
+  "member_email" : "trellomember@outlook.com",
+  "member_password" : "Trello@Member",
+  "member_username" : "Trello Member",
+  "card_text" : "This is an automation test for the card function"
+}
