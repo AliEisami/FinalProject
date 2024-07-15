@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23c51f42-840a-4fed-8817-7259249a65cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AutomationFinalProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/browser_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/config_provider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/infra/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/base_app_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/board_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/first_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/members_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/profile_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/board_page_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/home_page_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/login_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/members_page_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/profile_page_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2j31HrIYI0qBfoiYw8eKQ8WvBbz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for board_page_test.BoardPageTest.executor": "Run",
+    "Python tests.Python tests for board_page_test.BoardPageTest.test_add_card.executor": "Debug",
+    "Python tests.Python tests for board_page_test.BoardPageTest.test_delete_board_successful.executor": "Debug",
+    "Python tests.Python tests for board_page_test.BoardPageTest.test_move_list.executor": "Run",
+    "Python tests.Python tests for home_page_test.HomePageTest.test_create_board_successful.executor": "Debug",
+    "Python tests.Python tests for login_test.LoginTest.executor": "Run",
+    "Python tests.Python tests for login_test.LoginTest.test_login_successful.executor": "Run",
+    "Python tests.Python tests for login_test.LoginTest.test_login_unsuccessful.executor": "Debug",
+    "Python tests.Python tests for members_page_test.MembersPageTest.executor": "Run",
+    "Python tests.Python tests for members_page_test.MembersPageTest.test_workspace_add_member.executor": "Debug",
+    "Python tests.Python tests for members_page_test.MembersPageTest.test_workspace_remove_member.executor": "Debug",
+    "Python tests.Python tests for profile_page_test.BoardPageTest.executor": "Run",
+    "Python tests.Python tests for profile_page_test.BoardPageTest.test_change_invalid_username.executor": "Debug",
+    "Python tests.Python tests for profile_page_test.BoardPageTest.test_change_username.executor": "Run",
+    "Python tests.Python tests for profile_page_test.BoardPageTest.test_change_valid_username.executor": "Debug",
+    "Python tests.Python tests for profile_page_test.ProfilePageTest.executor": "Run",
+    "Python tests.Python tests for profile_page_test.ProfilePageTest.test_change_valid_username.executor": "Run",
+    "Python tests.Python tests in board_page_test.py.executor": "Run",
+    "Python tests.Python tests in home_page_test.py.executor": "Run",
+    "Python tests.Python tests in login_test.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/aliei/Desktop/5TECH/AutomationFinalProject/AutomationFinalProject"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aliei\Desktop\5TECH\AutomationFinalProject\AutomationFinalProject" />
+      <recent name="C:\Users\aliei\Desktop\5TECH\AutomationFinalProject\AutomationFinalProject\logic" />
+      <recent name="C:\Users\aliei\Desktop\5TECH\AutomationFinalProject\AutomationFinalProject\infra" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aliei\Desktop\5TECH\AutomationFinalProject\AutomationFinalProject\infra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for board_page_test.BoardPageTest.test_move_list">
+    <configuration name="Python tests for board_page_test.BoardPageTest.test_move_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;board_page_test.BoardPageTest.test_move_list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for login_test.LoginTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_test.LoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for login_test.LoginTest.test_login_successful" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_test.LoginTest.test_login_successful&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for profile_page_test.ProfilePageTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;profile_page_test.ProfilePageTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for profile_page_test.ProfilePageTest.test_change_valid_username" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFinalProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;profile_page_test.ProfilePageTest.test_change_valid_username&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for board_page_test.BoardPageTest.test_move_list" />
+        <item itemvalue="Python tests.Python tests for profile_page_test.ProfilePageTest.test_change_valid_username" />
+        <item itemvalue="Python tests.Python tests for profile_page_test.ProfilePageTest" />
+        <item itemvalue="Python tests.Python tests for login_test.LoginTest" />
+        <item itemvalue="Python tests.Python tests for login_test.LoginTest.test_login_successful" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23c51f42-840a-4fed-8817-7259249a65cf" name="Changes" comment="" />
+      <created>1720600862225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720600862225</updated>
+    </task>
+    <servers />
+  </component>
+</project>
