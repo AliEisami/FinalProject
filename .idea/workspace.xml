@@ -4,31 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23c51f42-840a-4fed-8817-7259249a65cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AutomationFinalProject.iml" afterDir="false" />
+    <list default="true" id="23c51f42-840a-4fed-8817-7259249a65cf" name="Changes" comment="Final Project part 1">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/browser_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/config_provider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/base_app_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/board_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/first_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/home_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/members_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/profile_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/board_page_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/home_page_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/login_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/members_page_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/profile_page_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logger.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +175,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720600862225</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final Project part 1">
+      <option name="closed" value="true" />
+      <created>1721022842379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022842379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Project part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Project part 1" />
   </component>
 </project>
